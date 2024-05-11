@@ -1,0 +1,1 @@
+add_library(stringCalculator StringCalculator.cpp Utils.cpp)
